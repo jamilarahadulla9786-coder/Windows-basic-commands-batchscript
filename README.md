@@ -19,48 +19,47 @@ Execute the necessary commands/batch file for the desired output.
 
 
 
-
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img1.png)
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img2.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img3.png)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img4.png)
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img5.png)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img6.png)
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img7.png)
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img8.png)
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](img8/img9.png)
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
@@ -68,9 +67,10 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 
+
 ## OUTPUT
 
-
+![alt text](img8/img10.png)
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -84,7 +84,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+![alt text](img8/img11.png)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
@@ -94,7 +94,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
-
+![alt text](img8/img12.png)
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -106,7 +106,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-
+![alt text](img8/img13.png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -117,7 +117,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
-
+![alt text](img8/img14.png)
 
 # RESULT:
 The commands/batch files are executed successfully.
